@@ -1,29 +1,3 @@
-// import { use, useState } from "react";
-
-// export default function Main1() {
-//   const [addTask, SetTask] = useState(0)
-//   const [deleteTask, Setdelete] = useState('')
-//   function add() {
-
-//     }
-
-//   return (
-//       <>
-//         <h1 className="m-5 text-8xl text-gray-200 font-semibold flex justify-center items-center">
-//           todos
-//         </h1>
-//         <div className="flex justify-center  ">
-//           <input
-//             className=" w-3xl h-12 border rounded-l-3xl rounded-r-3xl text-2xl font-semibold pl-5 "
-//             type="text"
-//             placeholder="Add To Do..."
-//           />
-//           <button className="bg-blue-400 p-2 pr-2 pl-2 rounded-l-2xl rounded-r-2xl">Add</button>
-//         </div>
-//       </>
-//     );
-// }
-
 import { useState } from "react";
 
 export default function Main1() {
